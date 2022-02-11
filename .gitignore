@@ -24,6 +24,8 @@ DerivedData
 # Android/IntelliJ
 #
 build/
+android/gradle.properties
+android/app/saigenix_tooler.keystore
 .idea
 .gradle
 local.properties
